@@ -42,6 +42,26 @@ Xlib --- C Language X Interface is a reference guide to the low-level C language
 
 ~]$ ./myappx101.cpp
 
+### Install Pkg-config support for Eclipse CDT 1.0.0
+
+* Menu: Help > Eclipse Marketplace -> Search -> Find - pkg-config - Click Button, GO
+
+### Configure Project Timer Sample GTK3 in Eclipse C/C++ IDE CDT
+
+* Menu: Project > Properties > C/C++ Build > Settings -> Configuration: [All Configuration]
+
+* Guide > Tools Settings > GCC C++ Compiler 
+
+* Guide > Tools Settings > GCC C Compiler
+
+* Guide > Tools Settings > GCC C++ Linker
+
+* Guide > Tools Settings > GCC Assembler
+
+* ADD Command:
+
+Expert Settings:
+
 ![Screenshot from 2023-03-06 18-04-52](https://user-images.githubusercontent.com/98597119/223276745-c91b0dbb-100a-4a21-8156-a5c7c25d9cd3.png)
 
 *Obs: ${COMMAND} ${FLAGS} ${OUTPUT_FLAG} ${OUTPUT_PREFIX}${OUTPUT} ${INPUTS} ${EXTRA_FLAGS} -lX11
