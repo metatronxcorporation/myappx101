@@ -18,7 +18,7 @@ Xlib --- C Language X Interface is a reference guide to the low-level C language
 
 ~]$ yum search x11
 
-*Obs: Install others libs
+* Obs: Install others libs. If Case
 
 * Now verify that if it is installed properly
 
