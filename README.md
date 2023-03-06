@@ -46,7 +46,7 @@ Xlib --- C Language X Interface is a reference guide to the low-level C language
 
 * Menu: Help > Eclipse Marketplace -> Search -> Find - pkg-config - Click Button, GO
 
-### Configure Project Timer Sample GTK3 in Eclipse C/C++ IDE CDT
+### Configure Project myappx101 -lX11 in Eclipse C/C++ IDE CDT
 
 * Menu: Project > Properties > C/C++ Build > Settings -> Configuration: [All Configuration]
 
