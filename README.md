@@ -2,6 +2,8 @@
 
 ![th-3336817074](https://user-images.githubusercontent.com/98597119/223263693-42ea8807-24c2-4800-90ed-af216324ab79.jpg)
 
+![440px-X-client-libraries](https://user-images.githubusercontent.com/98597119/223265466-8ba47392-ff99-4a74-a6c2-3f01703967cb.png)
+
 ### Getting started with Xlib - C Language X Interface on Centos Linux
 
 The X Window System is a network-transparent window system that was designed at MIT. X display servers run on computers with either monochrome or color bitmap display hardware. The server distributes user input to and accepts output requests from various client programs located either on the same machine or elsewhere in the network. Xlib is a C subroutine library that application programs (clients) use to interface with the window system by means of a stream connection. Although a client usually runs on the same machine as the X server it is talking to, this need not be the case.
