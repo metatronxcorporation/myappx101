@@ -20,6 +20,8 @@ Xlib --- C Language X Interface is a reference guide to the low-level C language
 
 ~]$ ./myappx101.cpp
 
+![Screenshot from 2023-03-06 18-00-20](https://user-images.githubusercontent.com/98597119/223276430-aec5bd45-f1a9-45bc-8f43-f3d4ba077d4b.png)
+
 *Obs: ${COMMAND} ${FLAGS} ${OUTPUT_FLAG} ${OUTPUT_PREFIX}${OUTPUT} ${INPUTS} ${EXTRA_FLAGS} -lX11
 
 ### Students Reference Books
