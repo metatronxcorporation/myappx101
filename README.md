@@ -12,11 +12,13 @@ Xlib --- C Language X Interface is a reference guide to the low-level C language
 
 ###
 
-~]$ myappx101.cpp
+~]$ vim myappx101.cpp
 
 :x
 
 ~]$ g++ -lX11 myappx101.cpp -o myappx101.cpp
+
+~]$ ./myappx101.cpp
 
 *Obs: ${COMMAND} ${FLAGS} ${OUTPUT_FLAG} ${OUTPUT_PREFIX}${OUTPUT} ${INPUTS} ${EXTRA_FLAGS} -lX11
 
