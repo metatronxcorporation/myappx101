@@ -12,7 +12,7 @@ Xlib --- C Language X Interface is a reference guide to the low-level C language
 
 ### Centos:
 
-~]$ sudo yum -y install git gcc g++ gdb make cmake
+~]$ sudo yum -y install vim gcc g++ gdb make cmake
 
 ~]$ xdpyinfo | grep version
 
