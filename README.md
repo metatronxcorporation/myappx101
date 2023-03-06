@@ -42,11 +42,31 @@ Xlib --- C Language X Interface is a reference guide to the low-level C language
 
 ~]$ ./myappx101.cpp
 
-### Install Pkg-config support for Eclipse CDT 1.0.0
+# Install eclipseIDE 2022-12 on CentOS
+
+* Enable snaps on CentOS and install Eclipse
+
+* https://snapcraft.io/install/eclipse/centos
+
+## EclipseIDE 2022-12
+
+~]$ su - 
+
+~]# yum install snapd
+
+~]# systemctl enable --now snapd.socket
+
+~]# ln -s /var/lib/snapd/snap /snap
+
+~]# snap install eclipse --classic
+
+~]# exit
+
+## Install Pkg-config support for Eclipse CDT 1.0.0
 
 * Menu: Help > Eclipse Marketplace -> Search -> Find - pkg-config - Click Button, GO
 
-### Configure Project myappx101 -lX11 in Eclipse C/C++ IDE CDT
+## Configure Project myappx101 -lX11 in Eclipse C/C++ IDE CDT
 
 * Menu: Project > Properties > C/C++ Build > Settings -> Configuration: [All Configuration]
 
@@ -68,7 +88,7 @@ Expert Settings:
 
 ![Screenshot from 2023-03-06 18-00-20](https://user-images.githubusercontent.com/98597119/223276430-aec5bd45-f1a9-45bc-8f43-f3d4ba077d4b.png)
 
-### Students Reference Books
+## Students Reference Books
 
 ![5120pfeU95L _SX401_BO1,204,203,200_](https://user-images.githubusercontent.com/98597119/223268759-520caee2-4831-48b5-abda-deac58b11372.jpg)
 
