@@ -14,7 +14,7 @@ Xlib --- C Language X Interface is a reference guide to the low-level C language
 
 ~]$ yum search x11
 
-~]$ sudo yum -y install git gcc g++ gdb make cmake wxGTK3-devel
+~]$ sudo yum -y install git gcc g++ gdb make cmake
 
 ~]$ vim myappx101.cpp
 
