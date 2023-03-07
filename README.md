@@ -82,13 +82,13 @@ Xlib --- C Language X Interface is a reference guide to the low-level C language
 
 * Menu: Project > Properties > C/C++ Build > Settings -> Configuration: [All Configuration]
 
-* Guide > Tools Settings > GCC C++ Compiler 
+Guide > Tools Settings > GCC C++ Compiler 
 
-* Guide > Tools Settings > GCC C Compiler
+Guide > Tools Settings > GCC C Compiler
 
-* Guide > Tools Settings > GCC C++ Linker
+Guide > Tools Settings > GCC C++ Linker
 
-* Guide > Tools Settings > GCC Assembler
+Guide > Tools Settings > GCC Assembler
 
 Obs: ADD Command
 
@@ -98,7 +98,15 @@ ${COMMAND} ${FLAGS} ${OUTPUT_FLAG} ${OUTPUT_PREFIX}${OUTPUT} ${INPUTS} ${EXTRA_F
 
 ![Screenshot from 2023-03-08 01-34-45](https://user-images.githubusercontent.com/98597119/223487696-6909ef27-191a-4cc4-8c96-dca7aa1b9b2a.png)
 
-Obs: Compile and Run
+* Menu: Project > Properties > C/C++ General > Paths and Symbols -> Configuration: [All Configuration]
+
+Guide > includes > Languages: Assembly | Include directories: /usr/include/X11
+
+Guide > includes > Languages: GNU C | Include directories: /usr/include/X11
+
+Guide > includes > Languages: GNU C++ | Include directories: /usr/include/X11
+
+* Obs: Compile and Run
 
 ![Screenshot from 2023-03-08 01-31-58](https://user-images.githubusercontent.com/98597119/223486857-3a6b6b3f-bf93-4fdf-bd1f-e4e5c5ab9d8e.png)
 
