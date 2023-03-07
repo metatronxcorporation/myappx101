@@ -18,13 +18,13 @@ Xlib --- C Language X Interface is a reference guide to the low-level C language
 
 ~]$ sudo yum -y install vim gcc g++ gdb make cmake
 
-~]$ xdpyinfo | grep version
-
 ~]$ yum search x11
 
 * Obs: Install others libs. If Case
 
 * Now verify that if it is installed properly
+
+~]$ xdpyinfo | grep version
 
 ~]$ make --version
 
