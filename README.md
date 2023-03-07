@@ -82,13 +82,15 @@ Xlib --- C Language X Interface is a reference guide to the low-level C language
 
 * Guide > Tools Settings > GCC Assembler
 
-ADD Command:
+* Obs: ADD Command
 
 Expert Settings:
 
+${COMMAND} ${FLAGS} ${OUTPUT_FLAG} ${OUTPUT_PREFIX}${OUTPUT} ${INPUTS} ${EXTRA_FLAGS} -lX11
+
 ![Screenshot from 2023-03-06 18-04-52](https://user-images.githubusercontent.com/98597119/223276745-c91b0dbb-100a-4a21-8156-a5c7c25d9cd3.png)
 
-*Obs: ${COMMAND} ${FLAGS} ${OUTPUT_FLAG} ${OUTPUT_PREFIX}${OUTPUT} ${INPUTS} ${EXTRA_FLAGS} -lX11
+* Obs: Compile and Run
 
 ![Screenshot from 2023-03-06 18-00-20](https://user-images.githubusercontent.com/98597119/223276430-aec5bd45-f1a9-45bc-8f43-f3d4ba077d4b.png)
 
