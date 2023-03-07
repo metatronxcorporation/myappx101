@@ -102,6 +102,8 @@ Obs: Compile and Run
 
 ![5f6bea6a-eef6-473c-a563-1ff2b484331c_1 6968d9baf17245a77f381ed53c37e4eb](https://user-images.githubusercontent.com/98597119/223292548-575b321a-7031-4d0d-a6ef-3b4e4b646a44.jpeg)
 
+![cover50](https://user-images.githubusercontent.com/98597119/223293095-554fb04d-9f3e-44af-b298-c3ac93812c43.jpg)
+
 ![41vUdzcR8cL _SX260_](https://user-images.githubusercontent.com/98597119/223288707-6f603658-79ec-4c16-a332-e2d1f0040fc7.jpg)
 
 ![5108SrrM+qL](https://user-images.githubusercontent.com/98597119/223290799-4d6ddec8-0969-42ed-afc7-35efe86e017d.jpg)
