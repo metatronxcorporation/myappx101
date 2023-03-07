@@ -96,11 +96,13 @@ Expert Settings:
 
 ${COMMAND} ${FLAGS} ${OUTPUT_FLAG} ${OUTPUT_PREFIX}${OUTPUT} ${INPUTS} ${EXTRA_FLAGS} -lX11
 
-![Screenshot from 2023-03-06 18-04-52](https://user-images.githubusercontent.com/98597119/223276745-c91b0dbb-100a-4a21-8156-a5c7c25d9cd3.png)
+![Screenshot from 2023-03-08 01-34-45](https://user-images.githubusercontent.com/98597119/223487696-6909ef27-191a-4cc4-8c96-dca7aa1b9b2a.png)
 
 Obs: Compile and Run
 
 ![Screenshot from 2023-03-08 01-31-58](https://user-images.githubusercontent.com/98597119/223486857-3a6b6b3f-bf93-4fdf-bd1f-e4e5c5ab9d8e.png)
+
+********************************************************************************************************************
 
 ## Students Reference Books
 
