@@ -62,7 +62,7 @@ int main(int argc, char** argv)
       const char* s1 = "X11 test app under Linux";
 #endif
 
-      const char* s2 = "(C)2023 example.local";
+      const char* s2 = "(C)2023 metatronlabs.local";
       XDrawString(dpy, win, DefaultGC(dpy, s), 10, y_offset, s1, strlen(s1));
       y_offset += 20;
       XDrawString(dpy, win, DefaultGC(dpy, s), 10, y_offset, s2, strlen(s2));
