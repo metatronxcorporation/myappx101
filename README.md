@@ -52,6 +52,8 @@ Xlib --- C Language X Interface is a reference guide to the low-level C language
 
 ~]$ ./myappx101.cpp
 
+![Screenshot from 2023-03-08 01-16-35](https://user-images.githubusercontent.com/98597119/223482543-8fb7ebbb-dee3-41e6-ba43-09e112e3911b.png)
+
 # Install eclipseIDE 2022-12 on CentOS
 
 * Enable snaps on CentOS and install Eclipse
