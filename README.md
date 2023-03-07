@@ -110,7 +110,7 @@ Guide > includes > Languages: GNU C++ | Include directories: /usr/include/X11
 
 * Obs: Compile and Run
 
-![Screenshot from 2023-03-08 01-31-58](https://user-images.githubusercontent.com/98597119/223486857-3a6b6b3f-bf93-4fdf-bd1f-e4e5c5ab9d8e.png)
+![Screenshot from 2023-03-08 05-35-56](https://user-images.githubusercontent.com/98597119/223546580-3eeb86e0-e038-44ce-8a54-1a8046e70196.png)
 
 ********************************************************************************************************************
 
