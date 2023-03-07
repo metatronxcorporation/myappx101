@@ -100,7 +100,7 @@ ${COMMAND} ${FLAGS} ${OUTPUT_FLAG} ${OUTPUT_PREFIX}${OUTPUT} ${INPUTS} ${EXTRA_F
 
 Obs: Compile and Run
 
-![Screenshot from 2023-03-06 18-00-20](https://user-images.githubusercontent.com/98597119/223276430-aec5bd45-f1a9-45bc-8f43-f3d4ba077d4b.png)
+![Screenshot from 2023-03-08 01-31-58](https://user-images.githubusercontent.com/98597119/223486857-3a6b6b3f-bf93-4fdf-bd1f-e4e5c5ab9d8e.png)
 
 ## Students Reference Books
 
