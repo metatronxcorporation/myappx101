@@ -102,6 +102,8 @@ Obs: Compile and Run
 
 ![1593272200 01 _SCLZZZZZZZ_SX500_](https://user-images.githubusercontent.com/98597119/223301127-314b4800-74e9-4bbf-aa91-b201d9775447.jpg)
 
+![lfs-book-10-0-systemd-pdf-2563616854](https://user-images.githubusercontent.com/98597119/223301917-9e3cde9f-0267-4963-a5a1-abfefb6254ea.jpg)
+
 ![s-l640-18714065](https://user-images.githubusercontent.com/98597119/223293794-e2be6ac4-62fb-4fc2-9183-c74c53411844.jpg)
 
 ![ShowCover-462818533](https://user-images.githubusercontent.com/98597119/223291700-8893f767-ce9c-4639-9cea-16accc15770e.jpg)
