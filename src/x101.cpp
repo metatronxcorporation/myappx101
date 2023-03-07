@@ -3,7 +3,7 @@
 // Author      : Metatron Labs
 // Version     : 1.0
 // Copyright   : Metatron Labs
-// Description : Hello World in C++, Ansi-style
+// Description : X11 in C++, Ansi-style
 //============================================================================
 
 #include <X11/Xlib.h>
