@@ -96,6 +96,8 @@ Obs: Compile and Run
 
 ## Students Reference Books
 
+![ShowCover-462818533](https://user-images.githubusercontent.com/98597119/223291700-8893f767-ce9c-4639-9cea-16accc15770e.jpg)
+
 ![41vUdzcR8cL _SX260_](https://user-images.githubusercontent.com/98597119/223288707-6f603658-79ec-4c16-a332-e2d1f0040fc7.jpg)
 
 ![5108SrrM+qL](https://user-images.githubusercontent.com/98597119/223290799-4d6ddec8-0969-42ed-afc7-35efe86e017d.jpg)
