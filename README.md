@@ -30,6 +30,12 @@ Xlib --- C Language X Interface is a reference guide to the low-level C language
 
 ~]$ cmake --version
 
+~]$ pwd
+
+/home/admin/metatronlabs
+
+~]$ mkdir myappx101
+
 ~]$ vim myappx101.cpp
 
 * copy code to myappx101.cpp
