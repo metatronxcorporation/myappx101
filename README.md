@@ -106,8 +106,6 @@ Obs: Compile and Run
 
 ## Students Reference Books
 
-********************************************************************************************************************
-
 ### Linux From Scratch
 Version 11.3
 Published March 1st, 2023
