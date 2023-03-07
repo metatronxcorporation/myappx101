@@ -101,10 +101,9 @@ Obs: Compile and Run
 ### Linux From Scratch
 Version 11.3
 Published March 1st, 2023
+https://linuxfromscratch.org/lfs/view/stable/
 
 ********************************************************************************************************************
-
-https://linuxfromscratch.org/lfs/view/stable/
 
 ![1119578884](https://user-images.githubusercontent.com/98597119/223299621-9d354108-b24f-44ab-b825-61968cbc3914.jpg)
 
