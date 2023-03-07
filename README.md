@@ -102,6 +102,8 @@ Obs: Compile and Run
 
 ![1593272200 01 _SCLZZZZZZZ_SX500_](https://user-images.githubusercontent.com/98597119/223301127-314b4800-74e9-4bbf-aa91-b201d9775447.jpg)
 
+********************************************************************************************************************
+
 ### Linux From Scratch
 Version 11.3
 Published March 1st, 2023
