@@ -82,7 +82,7 @@ Xlib --- C Language X Interface is a reference guide to the low-level C language
 
 * Guide > Tools Settings > GCC Assembler
 
-* ADD Command:
+ADD Command:
 
 Expert Settings:
 
