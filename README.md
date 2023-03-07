@@ -96,19 +96,21 @@ Obs: Compile and Run
 
 ## Students Reference Books
 
-![1119578884](https://user-images.githubusercontent.com/98597119/223299621-9d354108-b24f-44ab-b825-61968cbc3914.jpg)
-
-![1119700914](https://user-images.githubusercontent.com/98597119/223300267-cc89ab2f-5793-4418-b6d5-b4aa9efc57d2.jpg)
-
-![1593272200 01 _SCLZZZZZZZ_SX500_](https://user-images.githubusercontent.com/98597119/223301127-314b4800-74e9-4bbf-aa91-b201d9775447.jpg)
-
 ********************************************************************************************************************
 
 ### Linux From Scratch
 Version 11.3
 Published March 1st, 2023
 
+********************************************************************************************************************
+
 https://linuxfromscratch.org/lfs/view/stable/
+
+![1119578884](https://user-images.githubusercontent.com/98597119/223299621-9d354108-b24f-44ab-b825-61968cbc3914.jpg)
+
+![1119700914](https://user-images.githubusercontent.com/98597119/223300267-cc89ab2f-5793-4418-b6d5-b4aa9efc57d2.jpg)
+
+![1593272200 01 _SCLZZZZZZZ_SX500_](https://user-images.githubusercontent.com/98597119/223301127-314b4800-74e9-4bbf-aa91-b201d9775447.jpg)
 
 ********************************************************************************************************************
 
